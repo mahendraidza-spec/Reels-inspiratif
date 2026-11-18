@@ -32,3 +32,11 @@ Catat tiap episode yang sudah tayang/disetujui supaya tidak mengulang tema, nama
 - Durasi: 30,12 detik (7 adegan; SEMUA dianimasikan Wan2GP Colab 20 steps — kecuali adegan 5 yang paruh keduanya cacat morphing, diperbaiki jadi 2 detik klip + ekor zoom still; dialog TTS di semua adegan)
 - Link: https://www.facebook.com/reel/1739530030981381
 - Brief: briefs/2026-11-17-sepatu-jebol-sebelum-ujian.md
+
+## 2026-11-18 — Episode 5 (video selesai 18 Nov ~11:15 WIB — BELUM TAYANG, menunggu upload jam 16:30 WIB)
+- Judul: "Diancam Potong Gaji Gara-Gara Sholat"
+- Tema: staf gudang teguh sholat meski diancam potong gaji; menemukan label kirim tertukar yang menyelamatkan perusahaan dari rugi besar; dipromosikan jadi Operational Manager
+- Tokoh: Frans — pria Indonesia 30 tahun, rambut hitam pendek rapi, kulit sawo matang, kemeja seragam gudang biru, celana hitam, sepatu safety; Pak Darma — pria Indonesia 48 tahun, rambut hitam beruban, kemeja putih lengan panjang, celana kain hitam; Rina — wanita 27 tahun, kerudung coklat muda, seragam gudang biru
+- Durasi: 22,60 detik (7 adegan; still + zoom SANGAT PELAN 30fps — klip animasi gagal: media.generate_video 403 region-block permanen, HF Wan2.2-Fast anonim kehabisan kuota ZeroGPU, tidak ada token HF tersimpan; Flow/Colab butuh browser; dialog TTS di semua adegan)
+- Link: (belum tayang — upload via browser task, target 16:30 WIB)
+- Brief: briefs/2026-11-18-frans-sholat-selamatkan-perusahaan.md
