@@ -33,10 +33,20 @@ Catat tiap episode yang sudah tayang/disetujui supaya tidak mengulang tema, nama
 - Link: https://www.facebook.com/reel/1739530030981381
 - Brief: briefs/2026-11-17-sepatu-jebol-sebelum-ujian.md
 
-## 2026-11-18 — Episode 5 (video selesai 18 Nov ~11:15 WIB — BELUM TAYANG, menunggu upload jam 16:30 WIB)
+## 2026-11-18 — Episode 5 (TAYANG 18 Nov ~12:45 WIB — dimajukan atas perintah Idza "Upload sekarang aja", bukan 16:30)
 - Judul: "Diancam Potong Gaji Gara-Gara Sholat"
 - Tema: staf gudang teguh sholat meski diancam potong gaji; menemukan label kirim tertukar yang menyelamatkan perusahaan dari rugi besar; dipromosikan jadi Operational Manager
 - Tokoh: Frans — pria Indonesia 30 tahun, rambut hitam pendek rapi, kulit sawo matang, kemeja seragam gudang biru, celana hitam, sepatu safety; Pak Darma — pria Indonesia 48 tahun, rambut hitam beruban, kemeja putih lengan panjang, celana kain hitam; Rina — wanita 27 tahun, kerudung coklat muda, seragam gudang biru
-- Durasi: 22,60 detik (7 adegan; still + zoom SANGAT PELAN 30fps — klip animasi gagal: media.generate_video 403 region-block permanen, HF Wan2.2-Fast anonim kehabisan kuota ZeroGPU, tidak ada token HF tersimpan; Flow/Colab butuh browser; dialog TTS di semua adegan)
-- Link: (belum tayang — upload via browser task, target 16:30 WIB)
+- Durasi: 22,60 detik (7 adegan; adegan 1+3 klip Flow Veo, adegan 2/4/5/6 klip Wan 2.2 langsung HF Space, adegan 7 still + zoom pelan; dialog TTS di semua adegan)
+- Link: https://www.facebook.com/reel/1303700828569134
 - Brief: briefs/2026-11-18-frans-sholat-selamatkan-perusahaan.md
+- Catatan: thumbnail kustom DITERIMA dan terpasang (pertama kali berhasil). Cron 15:00 hari ini LEWATI — episode sudah tayang; verifikasi ulang 15:00 WIB: Reel masih live di profil @idzaa23, isi sesuai cerita Frans.
+
+## 2026-11-19 — Episode 6 (TAYANG 19 Nov ~15:08 WIB — lebih awal dari target 16:30 karena run terjadwal tidak punya pemicu lanjutan jam 16:30)
+- Judul: "Becak Tua Menembus Hujan"
+- Tema: tukang becak mengayuh becaknya menembus hujan demi anak demam; menolak dibayar lebih; warga menghadiahinya becak baru
+- Tokoh: Pak Wiryo — pria Indonesia 58 tahun, rambut putih tipis beruban, kumis putih tipis, kulit sawo matang, kemeja batik coklat lusuh, celana kain hitam, sandal jepit, becak tua warna biru; Bu Sari — ibu 29 tahun, kerudung merah marun, daster bunga; Aldi — anak 5 tahun, rambut hitam pendek, kaos kuning
+- Durasi: 20,70 detik (7 adegan; SEMUA still + zoom sangat pelan — TIDAK ADA klip gerak: Flow sisa 10 kredit dan Wan 2.2 kuota habis, keduanya dipakai tes Reel podcast Ian Bae pagi ini atas perintah Idza; dialog TTS di semua adegan)
+- Link: https://www.facebook.com/reel/1922571215784835
+- Brief: briefs/2026-11-19-becak-tua-menembus-hujan.md
+- Catatan: thumbnail kustom DITERIMA dan terpasang (kedua kalinya berturut-turut setelah ep. 5). Tayang ~15:08, bukan 16:30. Episode 7 (20 Nov): kuota Wan reset ~12:09–12:46 WIB dan kredit Flow refresh ~01:27 WIB — kembali pakai Flow + Wan 2.2.
