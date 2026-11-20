@@ -50,3 +50,12 @@ Catat tiap episode yang sudah tayang/disetujui supaya tidak mengulang tema, nama
 - Link: https://www.facebook.com/reel/1922571215784835
 - Brief: briefs/2026-11-19-becak-tua-menembus-hujan.md
 - Catatan: thumbnail kustom DITERIMA dan terpasang (kedua kalinya berturut-turut setelah ep. 5). Tayang ~15:08, bukan 16:30. Episode 7 (20 Nov): kuota Wan reset ~12:09–12:46 WIB dan kredit Flow refresh ~01:27 WIB — kembali pakai Flow + Wan 2.2.
+
+## 2026-11-20 — Episode 7 (TAYANG 20 Nov ~15:09 WIB — lebih awal dari target 16:30 karena run terjadwal tidak punya pemicu lanjutan jam 16:30)
+- Judul: "Sepeda Guru Ngaji Dicuri, Balasan Warga Bikin Nangis!"
+- Tema: guru ngaji keliling sepedanya dicuri; murid mengadu ke ibu; warga patungan; sepeda baru diserahkan keesokan pagi
+- Tokoh: Pak Hadi — pria Indonesia 52 tahun, rambut hitam beruban pendek, kumis tipis, kulit sawo matang, baju koko putih, sarung batik coklat, peci hitam, sepeda ontel tua hitam dengan keranjang Al-Qur'an; Rizki — anak 9 tahun, rambut hitam pendek, baju koko putih, peci putih; Bu Aminah — ibu 45 tahun, kerudung ungu, daster bunga
+- Durasi: 23,63 detik (7 adegan; SEMUA still + zoom pelan — TIDAK ADA klip gerak: Wan 2.2 kuota habis hari ini, Flow Deni sisa 10 kredit, Flow akun utama GAGAL LOGIN — kata sandi tersimpan ditolak Google "Wrong password", kemungkinan login akun utama ketimpa login Deni yang disimpan 20 Nov ~13:06; dialog TTS di semua adegan)
+- Link: https://www.facebook.com/reel/2184494575512115
+- Brief: briefs/2026-11-20-sepeda-guru-ngaji-dicuri.md
+- Catatan: thumbnail kustom DITERIMA dan terpasang (ketiga kalinya berturut-turut setelah ep. 5–6). Tayang ~15:09, bukan 16:30. PERHATIAN: login Flow akun utama rusak (vault hanya 1 entri google.com — diduga kata sandi Deni); user perlu masukkan ulang login akun utama lewat Secure Vault sebelum Flow bisa dipakai lagi.
