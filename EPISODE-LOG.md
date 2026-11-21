@@ -59,3 +59,12 @@ Catat tiap episode yang sudah tayang/disetujui supaya tidak mengulang tema, nama
 - Link: https://www.facebook.com/reel/2184494575512115
 - Brief: briefs/2026-11-20-sepeda-guru-ngaji-dicuri.md
 - Catatan: thumbnail kustom DITERIMA dan terpasang (ketiga kalinya berturut-turut setelah ep. 5–6). Tayang ~15:09, bukan 16:30. PERHATIAN: login Flow akun utama rusak (vault hanya 1 entri google.com — diduga kata sandi Deni); user perlu masukkan ulang login akun utama lewat Secure Vault sebelum Flow bisa dipakai lagi.
+
+## 2026-11-21 — Episode 8 (TAYANG 21 Nov ~15:28 WIB — lebih awal dari target 16:30 karena run terjadwal tidak punya pemicu lanjutan jam 16:30)
+- Judul: "Balon Kakek Dipecahkan Preman, Balasan Anak Kecil Ini Bikin Satu Pasar Nangis!"
+- Tema: kakek penjual balon dipecahkan dagangannya preman pasar; anak kecil Rani kumpulkan uang jajan teman-temannya dan beli semua balon kakek; warga ikut membeli; preman pergi malu; kakek pulang tersenyum
+- Tokoh: Kakek Darman — pria Indonesia 68 tahun, rambut putih tipis, kumis putih, kulit sawo matang, kemeja lusuh warna coklat, celana kain hitam, sandal jepit, seikat balon warna-warni; Rani — anak perempuan 8 tahun, rambut hitam dikepang dua, baju merah, celana pendek jeans, sandal jepit; Preman pasar — pria 30-an, kaos hitam ketat, celana jeans, topi dibalik; Bu Yati — ibu 40 tahun, kerudung hijau, daster bunga
+- Durasi: 43,17 detik (7 adegan; adegan 1/2/5/7 klip gerak Wan 2.2 — Space kini model 14B "Wan2.2-I2V-A14B", 480x832, 4,81 dtk, di-loop — adegan 3/4/6 still + zoom pelan; dialog TTS di semua adegan)
+- Link: https://www.facebook.com/reel/1390597816486061
+- Brief: briefs/2026-11-21-balon-kakek-dibela-anak-kecil.md
+- Catatan: thumbnail kustom DITERIMA dan terpasang (keempat kalinya berturut-turut setelah ep. 5–7). Sudah 2 views + 1 like (Santong trulala) dalam semenit pertama. Wan 2.2 tersedia lagi hari ini (reset ~12:09 WIB; podcast ep 2 tidak jalan — persetujuan belum ada). Flow akun utama MASIH rusak; Flow Deni (50 kredit) dicadangkan untuk podcast ep 2.
