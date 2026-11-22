@@ -68,3 +68,12 @@ Catat tiap episode yang sudah tayang/disetujui supaya tidak mengulang tema, nama
 - Link: https://www.facebook.com/reel/1390597816486061
 - Brief: briefs/2026-11-21-balon-kakek-dibela-anak-kecil.md
 - Catatan: thumbnail kustom DITERIMA dan terpasang (keempat kalinya berturut-turut setelah ep. 5–7). Sudah 2 views + 1 like (Santong trulala) dalam semenit pertama. Wan 2.2 tersedia lagi hari ini (reset ~12:09 WIB; podcast ep 2 tidak jalan — persetujuan belum ada). Flow akun utama MASIH rusak; Flow Deni (50 kredit) dicadangkan untuk podcast ep 2.
+
+## 2026-11-22 — Episode 9 (TAYANG 22 Nov ~16:34 WIB — tayang tepat target 16:30)
+- Judul: "Nenek Penjual Jamu Dihina Anak Muda, Balasan Bocah SD Ini Bikin Satu Kampung Terdiam!"
+- Tema: nenek penjual jamu gendong dihina dan dagangannya ditumpahkan pemuda; bocah SD Bagas membantu memunguti botol, membeli jamu dengan uang saku, mengajak teman-teman ikut membeli; pemuda malu dan minta maaf sambil membeli juga
+- Tokoh: Nenek Sarti — wanita Indonesia 70 tahun, rambut putih disanggul, kulit sawo matang, kebaya coklat lusuh, kain batik, sandal jepit, bakul jamu gendong berisi botol-botol jamu; Bagas — anak laki-laki 10 tahun, rambut hitam pendek, kaos biru, celana pendek, sandal jepit, tas ransel; Raka — pemuda 20-an, kaos hitam, celana jeans, topi, motor matic; Bu Lastri — ibu 42 tahun, kerudung ungu, daster bunga
+- Durasi: 49,99 detik (7 adegan; adegan 1/2/5/7 klip gerak Wan 2.2 — Space model "Wan2.2-I2V-A14B", 480x832, 4,81 dtk, di-loop — adegan 3/4/6 still + zoom pelan; dialog TTS di semua adegan)
+- Link: https://www.facebook.com/reel/1712704147054138
+- Brief: briefs/2026-11-22-nenek-jamu-dibela-bocah-sd.md
+- Catatan: thumbnail kustom dipasang lewat tombol "Unggah" di dialog "Pilih gambar mini" (terverifikasi di preview composer: teks kuning "JAMU NENEK DITUMPAHIN!" terlihat) — TAPI grid Reels profil tidak mau render di browser (blank), jadi tile grid belum bisa dikonfirmasi visual; thumbnail kecil "Sampul" di composer tetap menampilkan frame video, bukan gambar kuning. Podcast ep 2 TIDAK jalan hari ini (tidak ada persetujuan sebelum 12:30), jadi kuota Wan 2.2 penuh buat episode ini. Flow akun utama MASIH rusak; Flow Deni (50 kredit, refresh ±15:35) dicadangkan untuk podcast ep 2.
